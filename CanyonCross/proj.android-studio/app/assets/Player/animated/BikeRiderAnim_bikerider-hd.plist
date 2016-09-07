@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bikerider0001</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{266.5, 178}, {157, 154}}</string>
+			<key>spriteOffset</key>
+			<string>{25, -75}</string>
+			<key>spriteSize</key>
+			<string>{157, 154}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{328, 4}, {157, 154}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bikerider0002</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{267, 179}, {156, 153}}</string>
+			<key>spriteOffset</key>
+			<string>{25, -75.5}</string>
+			<key>spriteSize</key>
+			<string>{156, 153}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{328, 162}, {156, 153}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bikerider0003</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{266, 183.5}, {157, 149}}</string>
+			<key>spriteOffset</key>
+			<string>{24.5, -78}</string>
+			<key>spriteSize</key>
+			<string>{157, 149}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{4, 164}, {157, 149}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bikerider0004</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{266.5, 188}, {157, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{25, -80}</string>
+			<key>spriteSize</key>
+			<string>{157, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 320}, {157, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bikerider0005</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{267, 188}, {156, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{25, -80}</string>
+			<key>spriteSize</key>
+			<string>{156, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{326, 468}, {156, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bikerider0006</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{266, 188}, {157, 144.5}}</string>
+			<key>spriteOffset</key>
+			<string>{24.5, -80.25}</string>
+			<key>spriteSize</key>
+			<string>{157, 144.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{4, 470}, {157, 144.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bikerider0007</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{266.5, 183.5}, {155.5, 151.5}}</string>
+			<key>spriteOffset</key>
+			<string>{24.25, -79.25}</string>
+			<key>spriteSize</key>
+			<string>{155.5, 151.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 164}, {155.5, 151.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bikerider0008</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{267, 183.5}, {156, 148.5}}</string>
+			<key>spriteOffset</key>
+			<string>{25, -77.75}</string>
+			<key>spriteSize</key>
+			<string>{156, 148.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 320}, {156, 148.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bikerider0009</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{266.5, 183.5}, {157, 148.5}}</string>
+			<key>spriteOffset</key>
+			<string>{25, -77.75}</string>
+			<key>spriteSize</key>
+			<string>{157, 148.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{4, 318}, {157, 148.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bikerider0010</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{266, 177.5}, {157, 155}}</string>
+			<key>spriteOffset</key>
+			<string>{24.5, -75}</string>
+			<key>spriteSize</key>
+			<string>{157, 155}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 4}, {157, 155}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bikerider0011</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{266.5, 177.5}, {155.5, 157.5}}</string>
+			<key>spriteOffset</key>
+			<string>{24.25, -76.25}</string>
+			<key>spriteSize</key>
+			<string>{155.5, 157.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 360}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{4, 4}, {155.5, 157.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>textureFileName</key>
+		<string>BikeRiderAnim_bikerider-hd.png</string>
+	</dict>
+</dict>
+</plist>
